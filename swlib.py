@@ -13,7 +13,7 @@ from scipy.signal import windows as win
 
 class SWLib:
     class CalcSWProp:
-        def __init__(self, h_0, k, film_thickness, saturation_magnetization, sw_type, gamma_0=0.0352, lambda_ex=None,
+        def __init__(self, h_0, k, film_thickness, saturation_magnetization, sw_type, lambda_ex=None,
                      exchange=False):
             self.h_0 = h_0
             self.k = k
@@ -21,7 +21,6 @@ class SWLib:
             self.film_thickness = film_thickness
             self.ms = saturation_magnetization
             self.sw_type = sw_type
-            self.gamma_0 = gamma_0
             self.exch = exchange
             self.f_0_bar = self.h_0 / self.ms
             if self.exch is True:
