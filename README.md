@@ -20,8 +20,8 @@ volume spin-waves (FVSWs) and Surface spin-waves (SSW) are done with and without
 | angular frequency| Grad/s|
 | wave-number| rad/nm|
 | group velocity| km/s|
-| frequency normalized by <img src="https://render.githubusercontent.com/render/math?math=f_{\text{M}} = \gamma_0 M_{\text{S}}"> | 1 |
-| group velocity normalized by <img src="https://render.githubusercontent.com/render/math?math=f_{\text{M}} = \gamma_0 M_{\text{S}}"> | nm/rad |
+| frequency normalized by <img src="https://render.githubusercontent.com/render/math?math=f_{\text{M}} = \gamma_0 M_{\text{S}}, \overline{f}"> | 1 |
+| group velocity normalized by <img src="https://render.githubusercontent.com/render/math?math=f_{\text{M}} = \gamma_0 M_{\text{S}}, \overline{v_{\text{g}}}"> | nm/rad |
 | <img src="https://render.githubusercontent.com/render/math?math=\gamma_0 = \frac{\gamma \mu_0}{2 \pi}">| GHz.m/kA|
 
 ## References
