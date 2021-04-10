@@ -6,9 +6,23 @@ algorithm is adopted from [[1]](#1).
 
 Additionally, space-time variation of spin-waves can be also
 be plotted and theoretical calculation of dispersion function
-and group velocity of the lowest order mode of three classes of
+and group velocity of the lowest order mode of the three classes of
 spin-waves namely Backward volume spin-waves (BVSWs), Forward
-volume spin-waves (FVSWs) and Surface spin-waves (SSW) are done.
+volume spin-waves (FVSWs) and Surface spin-waves (SSW) are done with and without the exchange effcet.
+
+## Units of the parameters
+| Parameters        | Units|
+| ------------- |-------------|
+| time      | ns|
+| length      | nm|
+| magnetic field | kA/m |
+| frequency | GHz|
+| angular frequency| Grad/s|
+| wave-number| rad/nm|
+| group velocity| km/s|
+| frequency normalized by <img src="https://render.githubusercontent.com/render/math?math=f_{\text{M}} = \gamma_0 M_{\text{S}}"> | 1 |
+| group velocity normalized by <img src="https://render.githubusercontent.com/render/math?math=f_{\text{M}} = \gamma_0 M_{\text{S}}"> | nm/rad |
+| <img src="https://render.githubusercontent.com/render/math?math=\gamma_0 = \frac{\gamma \mu_0}{2 \pi}">| GHz.m/kA|
 
 ## References
 <a id="1">[1]</a> 
