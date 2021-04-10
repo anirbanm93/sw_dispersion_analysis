@@ -8,7 +8,7 @@ Additionally, space-time variation of spin-waves can be also
 be plotted and theoretical calculation of dispersion function
 and group velocity of the lowest order mode of the three classes of
 spin-waves namely Backward volume spin-waves (BVSWs), Forward
-volume spin-waves (FVSWs) and Surface spin-waves (SSW) are done with and without the exchange effcet.
+volume spin-waves (FVSWs) and Surface spin-waves (SSWs) are done with and without the exchange effcet.
 
 ## Units of the parameters
 | Parameters        | Units|
