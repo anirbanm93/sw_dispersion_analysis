@@ -1,4 +1,4 @@
-#Analysis of spin-wave dispersion in magnonic structure
+## Analysis of spin-wave dispersion in magnonic structure
 A cluster of .ovf (OOMMF vector format) files containing 
 spatio-temporal information of spin-waves are post-processed
 to plot the spin-wave dispersion curve. The post-processing 
